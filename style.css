@@ -1,0 +1,27 @@
+#header{
+    background-color:coral;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:10px
+}
+
+#header h1{
+    color:rgb(163, 192, 246);
+}
+
+body{
+    margin-top:0;
+    background-color:rgb(163, 192, 246);
+}
+
+#copyright-footer{
+    position:fixed;
+    color:rgb(78, 78, 78);
+    bottom:0;
+    width:100%;
+    text-align:center;
+    line-height:4;
+    background-color:whitesmoke;
+    font-size: xx-large;
+    font-family: 'Dancing Script', cursive;
+    text-shadow:5px 5px 5px red;
+}
